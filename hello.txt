@@ -1,0 +1,13 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+lab-edu-rds-aurora.cluster-c326sowkytd3.ap-northeast-2.rds.amazonaws.com	canonical name = lab-edu-rds-aurora.c326sowkytd3.ap-northeast-2.rds.amazonaws.com.
+Name:	lab-edu-rds-aurora.c326sowkytd3.ap-northeast-2.rds.amazonaws.com
+Address: 10.0.80.241
+
+Address: 10.0.80.241
+Address: 10.0.80.241
+Address: 10.0.80.241
+Address:
+10.0.80.241
